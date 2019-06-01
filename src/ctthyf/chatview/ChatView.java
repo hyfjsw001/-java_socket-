@@ -10,7 +10,8 @@ import java.util.Date;
 import javax.swing.JOptionPane;
 
 /**
- *
+ *我的第一个eclipse加github
+ *为什么不会成功呢
  * @author hyfjsw001
  */
 public class ChatView extends javax.swing.JFrame {
