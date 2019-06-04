@@ -1,4 +1,4 @@
-# -java_socket-
+# -java_socket-DCP
 包括基于DCP的DatagramSocket，DatagramPacket和基于TCP的ServerSocket，Socket。
 
 三个程序：
